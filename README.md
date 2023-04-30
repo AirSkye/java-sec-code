@@ -3,7 +3,7 @@
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code.
 
-[中文文档](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md)
+[中文文档](https://github.com/JoyChou93/java-sec-code/blob/master/README_zh.md) 😋[Alibaba Security Purple Team Recruitment](https://talent.alibaba.com/off-campus-position/937731?trace=qrcode_share)
 
 ## Introduce
 
@@ -30,6 +30,7 @@ Sort by letter.
 - [CORS](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/CORS.java)
 - [CRLF Injection](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/CRLFInjection.java)
 - [CSRF](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/security/WebSecurityConfig.java)
+- [CVE-2022-22978](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/security/WebSecurityConfig.java)
 - [Deserialize](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Deserialize.java)
 - [Fastjson](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Fastjson.java)
 - [File Upload](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/FileUpload.java)
@@ -37,6 +38,7 @@ Sort by letter.
 - [IP Forge](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/IPForge.java)
 - [Java RMI](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/RMI/Server.java)
 - [JSONP](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Jsonp.java)
+- [Log4j](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Log4j.java)
 - [ooxmlXXE](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/othervulns/ooxmlXXE.java)
 - [PathTraversal](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/PathTraversal.java)
 - [RCE](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Rce.java)
@@ -56,7 +58,7 @@ Sort by letter.
 - [XSS](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/XSS.java)
 - [XStream](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/XStreamRce.java)
 - [XXE](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/XXE.java)
-
+- [JWT](https://github.com/JoyChou93/java-sec-code/blob/master/src/main/java/org/joychou/controller/Jwt.java)
 
 
 ## Vulnerability Description
@@ -74,6 +76,7 @@ Sort by letter.
 - [SSTI](https://github.com/JoyChou93/java-sec-code/wiki/SSTI)
 - [URL whitelist Bypass](https://github.com/JoyChou93/java-sec-code/wiki/URL-whtielist-Bypass)
 - [XXE](https://github.com/JoyChou93/java-sec-code/wiki/XXE)
+- [JWT](https://github.com/JoyChou93/java-sec-code/wiki/JWT)
 - [Others](https://github.com/JoyChou93/java-sec-code/wiki/others)
 
 ## How to run
